@@ -13,3 +13,6 @@
 #3 – Commitando na branch e finalizando:
 #Git flow feature finish nomeDaBranch.
 #*** dizendo que vou fechar a feature nomeDaBranch, e após operação, ele exclui a branch automaticamente
+
+#4 - Criando release ao estar na Developer:
+#Git flow release start 0.1.0 -> Representa o ambiente de Homologação

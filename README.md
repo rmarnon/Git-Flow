@@ -25,7 +25,7 @@ Git flow release start 0.1.0 -> Representa o ambiente de Homologação
 5 - Criando merge da release para main:
 Git flow release finish 0.1.0 -> Representa que sera mergeado para master
 
- *** Ele irá fazer o merge, e coloca :WQ! para confirmar, insere mensagem em seguida e :WQ para finalizar o merge. 
+ *** Ele irá fazer o merge, e coloca :WQ! para confirmar, insere mensagem (insert) em seguida e :WQ para finalizar o merge. 
  
  6 - Criando hotfix é o mesmo processo, crado a partir da master:
  *** Se alterar a branch de hotfiz, irá atualizar tanto a master, quanto a developer
